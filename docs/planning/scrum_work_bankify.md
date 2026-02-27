@@ -1,5 +1,5 @@
 # DOSW-Lab4
-# planeacion
+# planeación
 ___
 ## Desglose de trabajo: Epica, Historias  de Usuario y Tareas
 ___
