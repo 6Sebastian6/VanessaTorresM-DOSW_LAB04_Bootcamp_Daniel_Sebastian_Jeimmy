@@ -15,37 +15,37 @@ ___
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-01                           |
-| Titulo     | Autenticar usuario              |
+| Título     | Autenticar usuario              |
 | Prioridad  | Alta                            |
-| Estimacion | Se define en el Planning Poker  |
+| Estimación | Se define en el Planning Poker  |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-02                           |
-| Titulo     | Validar datos de la transacción |
+| Título     | Validar datos de la transacción |
 | Prioridad  | Media                           |
-| Estimacion | Se define en el Planning Poker  |
+| Estimación | Se define en el Planning Poker  |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-03                           |
-| Titulo     | Realizar el movimiento          |
+| Título     | Realizar el movimiento          |
 | Prioridad  | Alta                            |
-| Estimacion | Se define en el Planning Poker  |
+| Estimación | Se define en el Planning Poker  |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-04                           |
-| Titulo     | Registrar movimiento            |
+| Título     | Registrar movimiento            |
 | Prioridad  | Media                           |
-| Estimacion | Se define en el Planning Poker  |
+| Estimación | Se define en el Planning Poker  |
 
 
 ### 3.Tareas
 | Campo                             | Descripción                                                                    |
 |-----------------------------------|--------------------------------------------------------------------------------|
 | ID                                | TR-01                                                                          |
-| Titulo                            | Iniciar sesión en el sistema                                                   |
+| Título                            | Iniciar sesión en el sistema                                                   |
 | ID de la Historia de Uso asociada | HU-01                                                                          |
 | Descripción                       | Implementar el login para que el usuario pueda ingresar  hacer el deposito | 
 | Tareas requisito                  | Niguna                                                                         | 
