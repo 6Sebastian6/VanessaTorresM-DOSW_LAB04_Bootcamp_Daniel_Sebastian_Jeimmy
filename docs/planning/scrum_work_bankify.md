@@ -4,36 +4,36 @@ ___
 ## Desglose de trabajo: Epica, Historias  de Usuario y Tareas
 ___
 ## 1.Epica
-| Campo        | Descripcion                                                                                                      |
+| Campo        | Descripción                                                                                                      |
 |--------------|------------------------------------------------------------------------------------------------------------------|
 | ID           | EP-01                                                                                                            |
-| Titulo       | Deposito                                                                                                         |
-| Descripcion  | Para que los usuarios realizar depositos de dinero en distintas cuentas y tener un comprobante de la transaccion |
+| Título       | Deposito                                                                                                         |
+| Descripción  | Para que los usuarios realicen depositos de dinero en distintas cuentas y tener un comprobante de la transacción |
 | Stalkeholder | Gerente de Operaciones y Cliente o Usuario                                                                       |
 
 ### 2.Historias de usuario
-| Campo      | Descripcion                     |
+| Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-01                           |
 | Titulo     | Autenticar usuario              |
 | Prioridad  | Alta                            |
 | Estimacion | Se define en el Planning Poker  |
 
-| Campo      | Descripcion                     |
+| Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-02                           |
-| Titulo     | Validar datos de la transaccion |
+| Titulo     | Validar datos de la transacción |
 | Prioridad  | Media                           |
 | Estimacion | Se define en el Planning Poker  |
 
-| Campo      | Descripcion                     |
+| Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-03                           |
 | Titulo     | Realizar el movimiento          |
 | Prioridad  | Alta                            |
 | Estimacion | Se define en el Planning Poker  |
 
-| Campo      | Descripcion                     |
+| Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | HU-04                           |
 | Titulo     | Registrar movimiento            |
@@ -42,98 +42,98 @@ ___
 
 
 ### 3.Tareas
-| Campo                             | Descripcion                                                                    |
+| Campo                             | Descripción                                                                    |
 |-----------------------------------|--------------------------------------------------------------------------------|
 | ID                                | TR-01                                                                          |
 | Titulo                            | Iniciar sesión en el sistema                                                   |
 | ID de la Historia de Uso asociada | HU-01                                                                          |
-| Descripcion                       | Implementar el login para que el usuario pueda ingresar para hacer el deposito | 
+| Descripción                       | Implementar el login para que el usuario pueda ingresar  hacer el deposito | 
 | Tareas requisito                  | Niguna                                                                         | 
 
-| Campo                             | Descripcion                                                                                    |
+| Campo                             | Descripción                                                                                    |
 |-----------------------------------|------------------------------------------------------------------------------------------------|
 | ID                                | TR-02                                                                                          |
 | Titulo                            | Ir al deposito                                                                                 |
 | ID de la Historia de Uso asociada | HU-02                                                                                          |
-| Descripcion                       | Agregar la funcion para permitir que el usuario pueda ir a la pantalla de realizar el deposito | 
+| Descripción                       | Agregar la función que permitir al usuario  ir a la pantalla donde se realiza el deposito | 
 | Tareas requisito                  | TR-01                                                                                          | 
 
-| Campo                             | Descripcion                                                                                       |
+| Campo                             | Descripción                                                                                       |
 |-----------------------------------|---------------------------------------------------------------------------------------------------|
 | ID                                | TR-03                                                                                             |
-| Titulo                            | Diligenciar datos de transaccion                                                                  |
+| Título                            | Diligenciar datos de transacción                                                                  |
 | ID de la Historia de Uso asociada | HU-01                                                                                             |
-| Descripcion                       | Crear la pantalla para que el  usuario ponga el numero de la cuenta al que va a enviar y el monto | 
+| Descripción                       | Crear la pantalla en la cual  el  usuario escribe el numero de la cuenta al que va a enviar la transacción y su respectivo monto.  | 
 | Tareas requisito                  | TR-02                                                                                             | 
 
-| Campo                             | Descripcion                                                                                            |
+| Campo                             | Descripción                                                                                            |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------|
 | ID                                | TR-04                                                                                                  |
-| Titulo                            | Validar que existe la cuenta de destino                                                                |
+| Título                            | Validar que existe la cuenta de destino                                                                |
 | ID de la Historia de Uso asociada | HU-02                                                                                                  |
-| Descripcion                       | Verificar que la cuenta a la que se le enviara el dinero exista y este activa antes de enviar el monto | 
+| Descripción                       | Verificar que la cuenta a la que se le enviará el dinero exista y este activa antes de enviar el monto | 
 | Tareas requisito                  | TR-03                                                                                                  | 
 
-| Campo                             | Descripcion                                                                                                          |
+| Campo                             | Descripción                                                                                                          |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ID                                | TR-05                                                                                                                |
-| Titulo                            | Validar monto                                                                                                        |
+| Título                            | Validar monto                                                                                                        |
 | ID de la Historia de Uso asociada | HU-02                                                                                                                |
-| Descripcion                       | Ver que el monto sea un numero positivo y que no sea mayor a la cantidad de dinero que tenga el usuario en la cuenta | 
+| Descripción                       | Asegurar que el monto sea un número positivo y que no sea mayor a la cantidad de dinero que tenga el usuario en la cuenta | 
 | Tareas requisito                  | TR-04                                                                                                                | 
 
-| Campo                             | Descripcion                                                                           |
+| Campo                             | Descripción                                                                           |
 |-----------------------------------|---------------------------------------------------------------------------------------|
 | ID                                | TR-06                                                                                 |
-| Titulo                            | Mostrar mensaje de error                                                              |
+| Título                            | Mostrar mensaje de error                                                              |
 | ID de la Historia de Uso asociada | HU-02                                                                                 |
-| Descripcion                       | Crear un mensaje que muestre al usuario cualquier error que pueda pasar en el proceso | 
+| Descripción                       | Crear un mensaje que muestre al usuario cualquier error que pueda pasar en el proceso | 
 | Tareas requisito                  | TR-03,TR-04,TR-05                                                                     | 
 
-| Campo                             | Descripcion                                                                                       |
+| Campo                             | Descripción                                                                                       |
 |-----------------------------------|---------------------------------------------------------------------------------------------------|
 | ID                                | TR-07                                                                                             |
-| Titulo                            | Ejecutar transaccion                                                                              |
+| Título                            | Ejecutar transacción                                                                              |
 | ID de la Historia de Uso asociada | HU-03                                                                                             |
-| Descripcion                       | Crear la logica para que se realize el proceso de realizar la transaccion desde una cuenta a otra | 
+| Descripción                       | Crear la lógica en la cual se realiza el proceso de transaccion entre cuentas, asegurandose la integridad de los datos. | 
 | Tareas requisito                  | TR-04,TR-05                                                                                       | 
 
-| Campo                             | Descripcion                                                                                                                          |
+| Campo                             | Descripción                                                                                                                          |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | ID                                | TR-08                                                                                                                                |
-| Titulo                            | Integridad de la transaccion                                                                                                         |
+| Título                            | Integridad de la transacción                                                                                                         |
 | ID de la Historia de Uso asociada | HU-03                                                                                                                                |
-| Descripcion                       | Asegurarse de que si falla no se realize ningun cambio en las cuentas o que se revierta cualquier cambio para mantener la integridad | 
+| Descripción                       | Asegurar que, en caso de que la transacción falle, no se realice ningún cambio en las cuentas y se garantice su integridad. | 
 | Tareas requisito                  | TR-07                                                                                                                                | 
 
 | Campo                             | Descripcion                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------|
 | ID                                | TR-09                                                                       |
-| Titulo                            | Registrar movimiento                                                        |
+| Título                            | Registrar movimiento                                                        |
 | ID de la Historia de Uso asociada | HU-03                                                                       |
-| Descripcion                       | Crear un registro, como un historial del movimiento con informacion de esta | 
+| Descripción                       | Crear un registro en el historial de transacciones, específicamente para este movimiento.| 
 | Tareas requisito                  | TR-07                                                                       | 
 
 | Campo                             | Descripcion                                                                              |
 |-----------------------------------|------------------------------------------------------------------------------------------|
 | ID                                | TR-10                                                                                    |
-| Titulo                            | Crear comprobante                                                                        |
+| Título                            | Crear comprobante                                                                        |
 | ID de la Historia de Uso asociada | HU-04                                                                                    |
-| Descripcion                       | Crear un formato que tenga los datos de la transaccion y esta se le entregara al usuario | 
+| Descripción                       | Crear un formato que tenga los datos de la transacción y esta se le entregará al usuario | 
 | Tareas requisito                  | TR-09                                                                                    | 
 
 | Campo                             | Descripcion                                                               |
 |-----------------------------------|---------------------------------------------------------------------------|
 | ID                                | TR-11                                                                     |
-| Titulo                            | Obtener datos del comprobante                                             |
+| Título                            | Obtener datos del comprobante                                             |
 | ID de la Historia de Uso asociada | HU-04                                                                     |
-| Descripcion                       | Con el movimiento se obtendra la informacion que estara en el comprobante | 
+| Descripción                       | Con el movimiento se obtendrá la información que estará en el comprobante | 
 | Tareas requisito                  | TR-10                                                                     | 
 
 | Campo                             | Descripcion                                                                                                  |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------|
 | ID                                | TR-12                                                                                                        |
-| Titulo                            | Generar y descargar comprobante                                                                              |
+| Título                            | Generar y descargar comprobante                                                                              |
 | ID de la Historia de Uso asociada | HU-04                                                                                                        |
-| Descripcion                       | Crear la logica para que el usuario pueda generar y descargar el comprobante, cuando se finalize el deposito | 
+| Descripción                       | Crear la lógica que permite al usuario generar y descargar el comprobante, cuando se finalice el deposito. | 
 | Tareas requisito                  | TR-10,TR-09                                                                                                  | 
