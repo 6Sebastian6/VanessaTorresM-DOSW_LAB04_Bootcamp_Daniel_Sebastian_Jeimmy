@@ -19,6 +19,9 @@ ___
 | Prioridad  | Alta                            |
 | Estimación | Se define en el Planning Poker  |
 
+https://youtu.be/m8TP2ZEYkbg
+
+
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | DLBDSJ-3                        |
