@@ -1,4 +1,6 @@
 # Planeacion del sistema en Jira
+
+https://mail-team-zhi1my4o.atlassian.net/jira/software/projects/DLBDSJ/boards/68/backlog?atlOrigin=eyJpIjoiYTNmZWJjMTBkOGIzNDkxMzliMTM3YWU0MGIzZTg2MDIiLCJwIjoiaiJ9
 ___
 
 ## Desglose de trabajo: Epicas, Historias de usuario y Tarea
@@ -36,5 +38,8 @@ La implementacion de los requerimientos identificados de Bankify se desglosa de 
 
 ![img.png](../images/Cronograma.png)
 
-5. Backlog:
+5. Spring:
 
+![img.png](../images/spring1.png)
+
+Decidimos hacer esta planeacion, ya que como mencionamos en el video la autenticacion del usuario se nos hizo de caracter importante, de tal forma qe lo mejor seria dedicarle un spring a esta funcionalidad.
