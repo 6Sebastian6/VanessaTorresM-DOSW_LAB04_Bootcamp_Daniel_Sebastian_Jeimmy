@@ -12,29 +12,29 @@ ___
 | Stalkeholder | Gerente de Operaciones y Cliente o Usuario                                                                       |
 
 ### 2.Historias de usuario
-| Campo      | Descripción        |
-|------------|--------------------|
-| ID         | DLBDSJ-2           |
-| Título     | Autenticar usuario |
-| Prioridad  | Alta               |
-| Estimación | 55                 |
-
-https://youtu.be/m8TP2ZEYkbg
-
+| Campo      | Descripción                     |
+|------------|---------------------------------|
+| ID         | DLBDSJ-2                        |
+| Título     | Autenticar usuario              |
+| Prioridad  | Alta                            |
+|Descripción | Como usuario quiero autenticar mi cuenta para realizar movimientos |
+| Estimación | 55  |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | DLBDSJ-3                        |
 | Título     | Validar datos de la transacción |
 | Prioridad  | Media                           |
-| Estimación | 13                              |
+|Descripción | Como bankify quiero validar los datos de laas transacciones para poder garantizar la seguridad de las transacciones |
+| Estimación | 13                             |
 
-| Campo      | Descripción            |
-|------------|------------------------|
-| ID         | DLBDSJ-4               |
-| Título     | Realizar el movimiento |
-| Prioridad  | Alta                   |
-| Estimación | 55                     |
+| Campo      | Descripción                     |
+|------------|---------------------------------|
+| ID         | DLBDSJ-4                        |
+| Título     | Realizar un movimiento          |
+| Prioridad  | Alta                            |
+|Descripción | Como usuario quiero realizar un movimiento para poder enviar y recibir dinero|
+| Estimación | 55                              |
 
 | Campo      | Descripción          |
 |------------|----------------------|
@@ -42,6 +42,8 @@ https://youtu.be/m8TP2ZEYkbg
 | Título     | Registrar movimiento |
 | Prioridad  | Media                |
 | Estimación | 34                   |
+|Descripción | Como Bankify quiero registrar los movimientos bancarios, para poder tener control en las cuentas de los usuarios.|
+
 
 
 ### 3.Tareas
