@@ -1,4 +1,6 @@
 # Planeacion del sistema en Jira
+
+https://mail-team-zhi1my4o.atlassian.net/jira/software/projects/DLBDSJ/boards/68/backlog?atlOrigin=eyJpIjoiYTNmZWJjMTBkOGIzNDkxMzliMTM3YWU0MGIzZTg2MDIiLCJwIjoiaiJ9
 ___
 
 ## Desglose de trabajo: Epicas, Historias de usuario y Tarea
