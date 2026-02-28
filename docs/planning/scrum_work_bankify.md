@@ -12,12 +12,12 @@ ___
 | Stalkeholder | Gerente de Operaciones y Cliente o Usuario                                                                       |
 
 ### 2.Historias de usuario
-| Campo      | Descripción                     |
-|------------|---------------------------------|
-| ID         | DLBDSJ-2                        |
-| Título     | Autenticar usuario              |
-| Prioridad  | Alta                            |
-| Estimación | Se define en el Planning Poker  |
+| Campo      | Descripción        |
+|------------|--------------------|
+| ID         | DLBDSJ-2           |
+| Título     | Autenticar usuario |
+| Prioridad  | Alta               |
+| Estimación | 55                 |
 
 https://youtu.be/m8TP2ZEYkbg
 
@@ -27,21 +27,21 @@ https://youtu.be/m8TP2ZEYkbg
 | ID         | DLBDSJ-3                        |
 | Título     | Validar datos de la transacción |
 | Prioridad  | Media                           |
-| Estimación | Se define en el Planning Poker  |
+| Estimación | 13                              |
 
-| Campo      | Descripción                     |
-|------------|---------------------------------|
-| ID         | DLBDSJ-4                        |
-| Título     | Realizar el movimiento          |
-| Prioridad  | Alta                            |
-| Estimación | Se define en el Planning Poker  |
+| Campo      | Descripción            |
+|------------|------------------------|
+| ID         | DLBDSJ-4               |
+| Título     | Realizar el movimiento |
+| Prioridad  | Alta                   |
+| Estimación | 55                     |
 
-| Campo      | Descripción                     |
-|------------|---------------------------------|
-| ID         | DLBDSJ-5                        |  
-| Título     | Registrar movimiento            |
-| Prioridad  | Media                           |
-| Estimación | Se define en el Planning Poker  |
+| Campo      | Descripción          |
+|------------|----------------------|
+| ID         | DLBDSJ-5             |  
+| Título     | Registrar movimiento |
+| Prioridad  | Media                |
+| Estimación | 34                   |
 
 
 ### 3.Tareas
