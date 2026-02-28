@@ -18,7 +18,7 @@ ___
 | Título     | Autenticar usuario              |
 | Prioridad  | Alta                            |
 |Descripción | Como usuario quiero autenticar mi cuenta para realizar movimientos |
-| Estimación | 55  |
+| Estimación | 0  |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
@@ -26,7 +26,7 @@ ___
 | Título     | Validar datos de la transacción |
 | Prioridad  | Media                           |
 |Descripción | Como bankify quiero validar los datos de laas transacciones para poder garantizar la seguridad de las transacciones |
-| Estimación | 13                              |
+| Estimación | 0                              |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
@@ -34,7 +34,7 @@ ___
 | Título     | Realizar un movimiento          |
 | Prioridad  | Alta                            |
 |Descripción | Como usuario quiero realizar un movimiento para poder enviar y recibir dinero|
-| Estimación | 55                               |
+| Estimación | 0                              |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
@@ -42,7 +42,7 @@ ___
 | Título     | Registrar movimiento            |
 | Prioridad  | Media                           |
 |Descripción | Como Bankify quiero registrar los movimientos bancarios, para poder tener control en las cuentas de los usuarios.|
-| Estimación | 34                              |
+| Estimación | 0                              |
 
 
 ### 3.Tareas
