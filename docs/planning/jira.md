@@ -34,7 +34,7 @@ La implementacion de los requerimientos identificados de Bankify se desglosa de 
 
 4. Cronograma:
 
-![img.png](Cronograma.png)
+![img.png](../images/Cronograma.png)
 
 5. Backlog:
 
