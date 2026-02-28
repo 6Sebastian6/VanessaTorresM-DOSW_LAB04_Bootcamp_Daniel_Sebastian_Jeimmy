@@ -25,7 +25,7 @@ por que no teniamos en cuenta todas las tareas que podia tener detrás.
 
 Si, después de que cada uno diera su punto de vista
 
-3. ¿Como resolvieron los escenarios en los que las estimaciones para la misma historia de usuario no fueron exactas  ?
+3. ¿Como resolvieron los escenarios en los que las estimaciones para la misma historia de usuario no fueron exactas?
 
 Debatimos y fuimos llegando a puntos intermedios. 
 
