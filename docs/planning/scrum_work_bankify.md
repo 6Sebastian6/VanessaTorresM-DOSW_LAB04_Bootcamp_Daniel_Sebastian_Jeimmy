@@ -17,28 +17,32 @@ ___
 | ID         | DLBDSJ-2                        |
 | Título     | Autenticar usuario              |
 | Prioridad  | Alta                            |
-| Estimación | Se define en el Planning Poker  |
+|Descripción | Como usuario quiero autenticar mi cuenta para realizar movimientos |
+| Estimación | 55  |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | DLBDSJ-3                        |
 | Título     | Validar datos de la transacción |
 | Prioridad  | Media                           |
-| Estimación | Se define en el Planning Poker  |
+|Descripción | Como bankify quiero validar los datos de laas transacciones para poder garantizar la seguridad de las transacciones |
+| Estimación | 13                              |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | DLBDSJ-4                        |
-| Título     | Realizar el movimiento          |
+| Título     | Realizar un movimiento          |
 | Prioridad  | Alta                            |
-| Estimación | Se define en el Planning Poker  |
+|Descripción | Como usuario quiero realizar un movimiento para poder enviar y recibir dinero|
+| Estimación | 55                               |
 
 | Campo      | Descripción                     |
 |------------|---------------------------------|
 | ID         | DLBDSJ-5                        |  
 | Título     | Registrar movimiento            |
 | Prioridad  | Media                           |
-| Estimación | Se define en el Planning Poker  |
+|Descripción | Como Bankify quiero registrar los movimientos bancarios, para poder tener control en las cuentas de los usuarios.|
+| Estimación | 34                              |
 
 
 ### 3.Tareas
